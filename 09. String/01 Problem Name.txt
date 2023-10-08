@@ -1,4 +1,5 @@
 S.No    Problem Name
 ---------------------
-01      Decode String
+01      Decoding the String with solution:
+02
 
